@@ -1,7 +1,7 @@
 ================================================================================
     MICROSOFT FOUNDATION CLASS LIBRARY : TestDialog Project Overview
 ===============================================================================
-
+Readme testdialog
 The application wizard has created this TestDialog application for
 you.  This application not only demonstrates the basics of using the Microsoft
 Foundation Classes but is also a starting point for writing your application.
